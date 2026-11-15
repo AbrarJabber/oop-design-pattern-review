@@ -19,10 +19,11 @@ DOI: https://doi.org/10.1002/spe.3176
 
  Repository Contents
 
-- report/  Academic article review report
-- presentation/ Presentation slides
-- references/ Bibliography and reference summaries
+- report/ — Academic article review report
+- presentation/ — Presentation slides
+- notes/ — Reading notes and analysis
+- references/ — Bibliography and reference summaries
 
  Progress
-
+ 
 This project is developed incrementally, with updates documented through Git commits on different days.
